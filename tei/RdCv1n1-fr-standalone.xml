@@ -43,7 +43,7 @@
             <pb n="1" facs="v1n1p1"/>
             <titlePage>
                 <titlePart type="main"><seg>REVUE</seg><lb/>DES<lb/><seg>COLONIES,</seg></titlePart>
-                <titlePart type="sub">RECUEIL MENSUEL<ptr target="#n13FA"/><lb/> DE LA POLITIQUE, DE
+                <titlePart type="sub">RECUEIL MENSUEL<ptr target="#n13FA" n="1"/><lb/> DE LA POLITIQUE, DE
                     L'ADMINISTRATION, DE LA JUSTICE, DE L'INSTRUCTION ET DES MOEURS
                     COLONIALES,</titlePart>
                 <byline>PAR UNE <orgName ref="#SHC">SOCIÉTÉ D'HOMMES DE COULEUR</orgName>,</byline>
@@ -86,7 +86,7 @@
                         </choice>, il faut enfin opposer la puissance de l'opinion publique éclairée
                         par une discussion toujours sage, toujours vraie, mais énergique et jamais
                         timide, des causes, quelles qu'elles soient, qui entravent la fusion
-                        désirable des populations diverses des colonies<ptr target="#n4F2A"/>. </p>
+                        désirable des populations diverses des colonies<ptr target="#n4F2A" n="2"/>. </p>
                     <p> A cet effet, un journal spécial est créé sous le titre de <bibl type="periodical"><title ref="#RdC"> Revue des Colonies</title></bibl>,
                         et <persName ref="#CB">M. Bissette</persName> en a la direction. </p>
                     <pb n="4" facs="v1n1p4"/>
@@ -94,7 +94,7 @@
                         considérées comme source de nouvelles et de faits curieux propres à amuser
                         les loisirs du lecteur, mais il se voue en entier aux intérêts politiques,
                         intellectuels, moraux et industriels des colons de l'une et l'autre
-                            couleur<ptr target="#n6CEA"/>. </p>
+                            couleur<ptr target="#n6CEA" n="3"/>. </p>
                     <p> Rien de ce qui concerne les colonies françaises particulièrement ne sera
                         omis dans cette publication mensuelle. Le gouvernement, l'administration, la
                         justice y seront examinés sous le double rapport de leurs actes et de leur
@@ -105,7 +105,7 @@
                         soutenus avec un zèle infatigable. </p>
                     <p> La grande question de l'abolition de l'esclavage, pierre fondamentale de la
                         liberté, y sera traitée avec le soin le plus consciencieux et l'amour le
-                        plus ardent de l'égalité et du bien général<ptr target="#n79DB"/>. </p>
+                        plus ardent de l'égalité et du bien général<ptr target="#n79DB" n="4"/>. </p>
                     <p> L'arbitraire, la partialité y seront traduits sans aucune acception de
                         personnes devant le tribunal de l'opinion publique. Le faible y trouvera
                         appui et protection, l'oppresseur, châtiment, le fonctionnaire, bláme mérité
@@ -114,9 +114,9 @@
                             <orig>changemens</orig>
                             <reg>changements</reg>
                         </choice> opérés ou projetés dans la législation qui régit les colonies
-                        étrangères et qui doivent réagir d'une manière puissante sur les nôtres<ptr target="#n5699"/>. </p>
+                        étrangères et qui doivent réagir d'une manière puissante sur les nôtres<ptr target="#n5699" n="5"/>. </p>
                     <p> Les intérêts nationaux, par rapport à la possession d'<placeName ref="#Alg">Alger</placeName>, trouveront dans la <title ref="#RdC">Revue des Colonies</title>
-                        un organe dévoué et indépendant<ptr target="#n6ED7"/>. </p>
+                        un organe dévoué et indépendant<ptr target="#n6ED7" n="6"/>. </p>
                     <p> Des <choice>
                             <orig>regespondans</orig>
                             <reg>regespondants</reg>
@@ -129,7 +129,7 @@
                     <pb n="5" facs="v1n1p5"/>
                     <head n="Déclaration de principes.">DÉCLARATION DE PRINCIPES.</head>
                     <p> La <title ref="#RdC">Revue des Colonies</title> croit devoir, avant tout, indiquer
-                        d'après quels principes elle jugera les hommes et les choses.<ptr target="#n6ED7"/> Selon elle, 89, dans l'immortelle <bibl type="legal"><title ref="#DDH">Déclaration des Droits</title></bibl> que vota
+                        d'après quels principes elle jugera les hommes et les choses.<ptr target="#n6ED7" n="6"/> Selon elle, 89, dans l'immortelle <bibl type="legal"><title ref="#DDH">Déclaration des Droits</title></bibl> que vota
                             <orgName ref="#AN">l'Assemblée Nationale</orgName>, posa les bases à
                         venir de toutes les institutions vraiment démocratiques ; c'est pourquoi
                         nous inscrivons cette <title>Déclaration</title> en tête de ce recueil : ce
@@ -151,7 +151,7 @@
                         <head rend="bold" n="Extrait">Extrait</head>
                         <head n="Des proces-verbaux de l'assemblée nationale des 20, 21, 22, 23, 24, 26 aout et 1er octobre 1789.">DES PROCES-VERBAUX DE <orgName ref="#AN">L'ASSEMBLÉE NATIONALE</orgName> DES 20,
                             21, 22, 23, 24, 26 AOUT ET 1er OCTOBRE 1789.</head>
-                        <head n="Déclaration des droits de l'homme en société.">DÉCLARATION DES DROITS DE L'HOMME EN SOCIÉTÉ<ptr target="#n7767"/>.</head>
+                        <head n="Déclaration des droits de l'homme en société.">DÉCLARATION DES DROITS DE L'HOMME EN SOCIÉTÉ<ptr target="#n7767" n="7"/>.</head>
                         <p> Les <choice>
                                 <orig>représentans</orig>
                                 <reg>représentants</reg>
@@ -297,10 +297,10 @@
                     <p>Tous les journaux ont retenti des déplorables <choice>
                             <orig>événemens</orig>
                             <reg>évènements</reg>
-                        </choice> de la Grand'Anse<ptr target="#n590A"/>, <placeName ref="#MQ">Martinique</placeName>. Les uns, inspirés par le pouvoir, aux yeux
+                        </choice> de la Grand'Anse<ptr target="#n590A" n="8"/>, <placeName ref="#MQ">Martinique</placeName>. Les uns, inspirés par le pouvoir, aux yeux
                         duquel tout ce qui est émancipation devient un objet de terreur, ont
                         présenté cette affaire sous un aspect défavorable à des hommes qui se sont
-                        bornés à résister à l'oppression.<ptr target="#n684A"/> D'autres, plus <choice>
+                        bornés à résister à l'oppression.<ptr target="#n684A" n="9"/> D'autres, plus <choice>
                             <orig>bienveillans</orig>
                             <reg>bienveillant</reg>
                         </choice>, plus impartiaux surtout, se sont bien gardés de porter un
@@ -325,7 +325,7 @@
                         étrangères aux <choice>
                             <orig>événemens</orig>
                             <reg>évènements</reg>
-                        </choice> de la Grand'Anse, dont nous nous occuperons plus spécialement<ptr target="#n65C6"/>, s'y rattachent néanmoins par une multitude de fils :
+                        </choice> de la Grand'Anse, dont nous nous occuperons plus spécialement<ptr target="#n65C6" n="10"/>, s'y rattachent néanmoins par une multitude de fils :
                         car, dans la destinée des peuples comme dans celle des hommes, rien n'est
                         isolé, et les effets actuels sont souvent produits par des causes qui se
                         perdent dans la nuit des temps.</p>
@@ -341,7 +341,7 @@
                             <orig>blazonnée</orig>
                             <reg>blasonnée</reg>
                         </choice>, élevée au titre de peuple, offrait un haut enseignement à la
-                        noblesse de la peau<ptr target="#n2BFD"/>, qui n'avait même pas comme elle
+                        noblesse de la peau<ptr target="#n2BFD" n="11"/>, qui n'avait même pas comme elle
                         le prestige des illustrations personnelles. La destruction de l'une était le
                         gage assuré de la destruction de l'autre. L'affranchissement du peuple, qui
                         avait gémi si long-temps sous l'empire de <pb n="10" facs="v1n1p10"/> la
@@ -354,7 +354,7 @@
                         autre côté une population pleine de sève, d'énergie, commençant à comprendre
                         ses droits et sa dignité. </p>
                     <p> Telle était donc la position des colonies lorsque la révolution de
-                            juillet<ptr target="#n9F29"/>, si riche d'avenir, fit croire un moment
+                            juillet<ptr target="#n9F29" n="12"/>, si riche d'avenir, fit croire un moment
                         au réveil de la France. Le nouveau gouvernement, entraîné, malgré lui sans
                         doute, par la force des circonstances, n'osant pas soulever le voile qui
                         cachait ses arrières-pensées, se courbant enfin devant l'opinion publique
@@ -362,7 +362,7 @@
                                 <orig>réglemens</orig>
                                 <reg>réglements</reg>
                             </choice></emph> de l'article de la charte concernant les colonies. Il
-                        déclara qu'elles seraient régies par des <emph>lois</emph> particulières<ptr target="#n3257"/>. Cette reconnaissance tacite des abus de toutes
+                        déclara qu'elles seraient régies par des <emph>lois</emph> particulières<ptr target="#n3257" n="13"/>. Cette reconnaissance tacite des abus de toutes
                         sortes, dont le régime des ordonnances est la source impure, fit concevoir
                         d'heureuses espérances aux hommes qui peuvent encore ajouter quelque foi à
                         des promesses de ministres. C'est qu'ils ne croyaient pas qu'un gouvernement
@@ -371,8 +371,8 @@
                         soi-disant chambre haute, et surtout d'une liste civile exagérée étaient des
                         jalons posés par le pouvoir naissant pour se constituer sur des bases
                         analogues à celui que le bras populaire venait d'écraser. La conservation de
-                        la noblesse titrée dans la mère-patrie<ptr target="#n917D"/>, l'adjonction
-                        qu'on lui faisait de l'aristocratie des Turcarets<ptr target="#n9C9A"/>, ne disait-<choice>
+                        la noblesse titrée dans la mère-patrie<ptr target="#n917D" n="14"/>, l'adjonction
+                        qu'on lui faisait de l'aristocratie des Turcarets<ptr target="#n9C9A" n="15"/>, ne disait-<choice>
                             <orig>il</orig>
                             <reg>elle</reg>
                         </choice> pas hautement aux colonies que, sauf quelques légères
@@ -382,7 +382,7 @@
                             <reg>privilèges</reg>
                         </choice>. </p>
                     <p>En effet les admirables <emph>lois</emph> particulières furent rendues
-                        tellement illusoires qu'elles équivalent au bon plaisir des ordonnances<ptr target="#n332A"/>, n'en différant que par l'hypocrisie du titre. Par
+                        tellement illusoires qu'elles équivalent au bon plaisir des ordonnances<ptr target="#n332A" n="16"/>, n'en différant que par l'hypocrisie du titre. Par
                         exemple, la loi électorale, établissant les droits politiques des blancs et
                         des hommes de couleur, n'est-elle pas une ceuvre de perfide déception ? A
                             <placeName ref="#BrB">l'île de Bourbon</placeName> et de <placeName ref="#Cay">Cayenne</placeName>, où les blancs sont en grande majorité,
@@ -393,7 +393,7 @@
                         la précaution d'élever le cens de manière qu'elle ne puisse y atteindre.
                         Est-il rien de plus perfide, je dirai même de plus odieusement ironique que
                         de concéder ainsi le droit en interdisant les moyens. N'eût-il pas été plus
-                        vrai de déclarer franchement que les blancs seuls seraient électeurs<ptr target="#n0490"/>?</p>
+                        vrai de déclarer franchement que les blancs seuls seraient électeurs<ptr target="#n0490" n="17"/>?</p>
                     <p>Il devenait difficile, en présence de cette loi d'organisation politique,
                         créant ou plutôt sanctionnant un <choice>
                             <orig>privilége</orig>
@@ -457,7 +457,7 @@
                         que cet ordre exigeait alors : la liberté et l'égalité. Mais ils ont affaire
                         à des privilégiés plus tenaces encore que ne le furent la noblesse et le
                         clergé de France. Ceux-ci du moins n'avaient pas l'impudence de dénier le
-                        titre d'hommes à leurs adversaires<ptr target="#n8508"/>. </p>
+                        titre d'hommes à leurs adversaires<ptr target="#n8508" n="18"/>. </p>
                     <p>Quel était donc le moyen dont pouvaient se servir les privilégiés pour
                         reconquérir l'intégrité de leurs <choice>
                             <orig>priviléges</orig>
@@ -466,7 +466,7 @@
                         répondu d'attendre tout du temps ; que l'on n'avait fait que céder à une
                         pénible nécessité ; que d'ailleurs les libertés accordées aux mulâtres
                         étaient purement illusoires, se bornant en réalité à quelques légères
-                        concessions de sociabilité<ptr target="#n6759"/>. Et encore ces concessions
+                        concessions de sociabilité<ptr target="#n6759" n="19"/>. Et encore ces concessions
                         même fléchissent-elles souvent devant le bon plaisir de l'aristocratie. </p>
                     <p>Ces réponses, qui satisferaient des hommes moins <choice>
                             <orig>impatiens</orig>
@@ -474,7 +474,7 @@
                         </choice>, moins orgueilleux surtout, eussent blessé profondément ces
                         maîtres impérieux dont le despotisme s'exerce sans contrôle sur de
                         malheureux esclaves. Il fallait donc employer tous les moyens, la calomnie
-                        même, pour asservir la classe de couleur et l'écraser<ptr target="#n7A20"/>.
+                        même, pour asservir la classe de couleur et l'écraser<ptr target="#n7A20" n="20"/>.
                         II fallait la représenter comme <emph>factieuse</emph>, turbulente, ayant
                         juré de détruire les blancs et ne reculant pour y parvenir, ni devant
                         l'assassinat, ni devant l'incendie. Il est si facile de calomnier des hommes
@@ -504,8 +504,8 @@
                         couvre nos colonies, retraçait l'histoire de la domination des possesseurs
                         d'hommes ; si elle évoquait du fond de leur tombeau les tristes victimes qui
                         chaque jour y sont entassées, jamais contrée souillée par la tyrannie
-                        n'offrirait de pages aussi horribles<ptr target="#n4C92"/>. Tout ce que nous
-                        lisons des Mésence, des Caligula, des Louis XI<ptr target="#n5DA0"/>, tout
+                        n'offrirait de pages aussi horribles<ptr target="#n4C92" n="21"/>. Tout ce que nous
+                        lisons des Mésence, des Caligula, des Louis XI<ptr target="#n5DA0" n="22"/>, tout
                         ce que nos cœurs se refusent à croire comme trop dégradant pour l'humanité
                         se trouve surpassé au dix-neuvième siècle par des Français d'outre-mer. Mais
                         ces horribles scènes de despotisme n'ont point ici leur place, ailleurs nous

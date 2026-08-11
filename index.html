@@ -15,10 +15,23 @@
   	<!-- rendition -->
   	<script>
 		/* CETEIcean */
-		var CETEIcean = new CETEI()
+		const CETEIcean = new CETEI()
 			CETEIcean.getHTML5("tei/RdCv1n1-fr-standalone.xml", function(data) {
 			document.getElementById("TEI").appendChild(data)
 		})
+
+    /* Behaviors - Uncomment during second exercise */
+    // adapted from https://github.com/TEIC/CETEIcean/blob/master/test/addBehaviorTest.html
+      CETEIcean.addBehaviors({"tei":{
+      // Inserts the first array element before tei:supplied, and the second, after.
+      
+      // Adds a new handler for tei:reg, wrapping it in an HTML <em>
+      
+      // Overrides the default ptr behavior, displaying @n
+      
+      // Makes persName clickable and displays referenced person in a <dialog>
+
+      }});
 
   	</script>
   </body>
