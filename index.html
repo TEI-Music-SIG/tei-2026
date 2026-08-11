@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <title>Revue des Colonies Example</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/CETEIcean.css" media="all" />
+    <link rel="stylesheet" href="css/custom.css" media="all" />
+    <script src="js/CETEI.js"></script>
+  </head>
+
+  <body>
+  	<!-- container for TEI document -->
+    <div id="TEI"></div>
+  	<!-- rendition -->
+  	<script>
+		/* CETEIcean */
+		var CETEIcean = new CETEI()
+			CETEIcean.getHTML5("tei/RdCv1n1-fr-standalone.xml", function(data) {
+			document.getElementById("TEI").appendChild(data)
+		})
+
+  	</script>
+  </body>
+
+</html>
